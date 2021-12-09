@@ -1,0 +1,30 @@
+.body_backgorund {
+    background-image: url("dumb.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #Bruh
+  {
+      border-width:10px;
+      background-color: rgb(255, 255, 255); 
+      border-style:ridge;
+  }
+  button {
+    background-color: #e100ff;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+  input
+  {
+    margin-right: 20px;
+  }
